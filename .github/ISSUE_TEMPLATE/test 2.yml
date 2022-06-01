@@ -11,7 +11,7 @@ body:
   - type: dropdown
     id: browsers
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: What type of suggestion are you making? 
       multiple: true
       options:
         - Firefox
