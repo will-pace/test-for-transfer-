@@ -7,12 +7,14 @@ body:
     attributes:
       value: |
         Please use this form to tell us about your suggestion!
-  - type: checkboxes
+ - type: dropdown
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Is this suggestion for a category, tool, or operational process improvement?
+      multiple: true
       options:
-        - label: I agree to follow this project's Code of Conduct
-          required: true
+        - Category
+        - Tool
+        - Safari
+        - Operational Process
         
      
