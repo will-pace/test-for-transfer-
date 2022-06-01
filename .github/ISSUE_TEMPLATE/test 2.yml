@@ -17,10 +17,10 @@ body:
        - Tool
        - Operational Process
   - type: checkboxes
-    id: cat-preferences
+    id: terms
     attributes:
-      label: What kinds of cats do you like?
-      description: You may select more than one.
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
       options:
-        - label: Orange cat (required. Everyone likes orange cats.)
-        - label: **Black cat**
+        - label: I agree to follow this project's Code of Conduct
+          required: true
