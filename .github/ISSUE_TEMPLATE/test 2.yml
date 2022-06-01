@@ -8,14 +8,14 @@ body:
     attributes:
       value: |
         Please use this form to tell us about your suggestion!
- - type: dropdown
+- type: dropdown
+    id: browsers
     attributes:
-      label: Is this suggestion for a category, tool, or operational process improvement?
+      label: What browsers are you seeing the problem on?
       multiple: true
       options:
-        - Category
-        - Tool
+        - Firefox
+        - Chrome
         - Safari
-        - Operational Process
-        
+        - Microsoft Edge
      
