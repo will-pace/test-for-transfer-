@@ -1,19 +1,9 @@
-name: Another test
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-assignees:
-  - octocat
+name: Process Improvement Suggestion
+description: Use this issue to suggest a new process improvement. 
+title: 'Process Improvement Suggestion: ' 
+labels: 'process suggestion'
 body:
   - type: markdown
     attributes:
       value: |
         Please use this form to tell us about your suggestion!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
-    validations:
-      required: false
