@@ -7,3 +7,15 @@ body:
     attributes:
       value: |
         Please use this form to tell us about your suggestion!
+  - type: checkboxes
+  id: cat-preferences
+  attributes:
+    label: Is this suggestion for a category, tool, or operational process improvement?
+    description: Select all that apply
+    options:
+      - label: Category
+      - label: Tool
+      - label: Operational Process 
+ 
+        
+     
