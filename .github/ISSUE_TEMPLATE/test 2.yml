@@ -9,13 +9,11 @@ body:
       value: |
         Please use this form to tell us about your suggestion!
   - type: dropdown
-    id: browsers
+    id: 
     attributes:
-      label: What type of suggestion are you making? 
+      label: Is this suggestion for a category, tool, or operational process improvement?
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
-     
+        - Category
+        - Tool
+        - Operational Process
