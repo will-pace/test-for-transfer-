@@ -24,5 +24,4 @@ body:
        description: You may select more than one.
        options:
         - label: Orange cat (required. Everyone likes orange cats.)
-        required: true
         - label: **Black cat**
