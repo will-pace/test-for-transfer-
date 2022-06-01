@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Please use this form to tell us about your suggestion!
-- type: checkboxes
+  - type: checkboxes
   id: cat-preferences
   attributes:
     label: What kinds of cats do you like?
