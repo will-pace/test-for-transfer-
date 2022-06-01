@@ -7,15 +7,14 @@ body:
     attributes:
       value: |
         Please use this form to tell us about your suggestion!
-  - type: checkboxes
+- type: checkboxes
   id: cat-preferences
   attributes:
-    label: Is this suggestion for a category, tool, or operational process improvement?
-    description: Select all that apply
+    label: What kinds of cats do you like?
+    description: You may select more than one.
     options:
-      - label: Category
-      - label: Tool
-      - label: Operational Process 
- 
+      - label: Orange cat (required. Everyone likes orange cats.)
+        required: true
+      - label: **Black cat**
         
      
