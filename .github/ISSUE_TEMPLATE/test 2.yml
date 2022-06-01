@@ -8,7 +8,7 @@ body:
     attributes:
       value: |
         Please use this form to tell us about your suggestion!
-- type: dropdown
+  - type: dropdown
     id: browsers
     attributes:
       label: What browsers are you seeing the problem on?
