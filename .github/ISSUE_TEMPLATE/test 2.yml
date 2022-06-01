@@ -3,25 +3,24 @@ description: Use this issue to suggest a new process improvement.
 title: 'Process Improvement Suggestion: ' 
 labels: 'process suggestion'
 body:
-- type: markdown
-    id: 
-    attributes:
+ - type: markdown
+   attributes:
       value: |
         Please use this form to tell us about your suggestion!
-  - type: dropdown
-    id: 
+ - type: dropdown
+   id: 
+   attributes:
+     label: Is your suggestion for a category, tool, or operational process improvement?
+     multiple: true
+     options:
+       - Category
+       - Tool
+       - Operational Process
+  - type: checkboxes
+    id: cat-preferences
     attributes:
-      label: Is your suggestion for a category, tool, or operational process improvement?
-      multiple: true
+      label: What kinds of cats do you like?
+      description: You may select more than one.
       options:
-        - Category
-        - Tool
-        - Operational Process
-   - type: checkboxes
-     id: cat-preferences
-     attributes:
-       label: What kinds of cats do you like?
-       description: You may select more than one.
-       options:
-         - label: Orange cat (required. Everyone likes orange cats.)
-         - label: **Black cat**
+        - label: Orange cat (required. Everyone likes orange cats.)
+        - label: **Black cat**
