@@ -3,7 +3,6 @@ description: Use this issue to suggest a new process improvement.
 title: 'Process Improvement Suggestion: ' 
 labels: 'process suggestion'
 body:
-  
   - type: markdown
     attributes:
       value: |
