@@ -16,7 +16,24 @@ body:
       - Operational Process
 - type: checkboxes
   attributes:
-    label: Blah Blah Blah 
+    label: Please specifiy which category, tool, or opertaional process: 
     options:
-      - label: example 1 
-      - label: example 2 
+      - label: General Abuse
+      - label: DMCA 
+      - label: PIR 
+      - label: Malicious Code 
+      - label: npm Name Change Request 
+      - label: Trade Compliance
+      - label: Trademark 
+      - label: Gov Takedown Requests 
+      - label: User Care
+      - label: COPPA 
+      - label: Account Succession 
+      - label: Reinstatement Requests
+      - label: Escalations 
+      - label: Triage 
+      - Label: Zendesk 
+      - Label: macros (create a [macro issue](https://github.com/github/trust-safety/issues/new?assignees=&labels=macro&template=macro-update-request.md&title=Macro+Request) for macro change requests) 
+       
+       
+  
