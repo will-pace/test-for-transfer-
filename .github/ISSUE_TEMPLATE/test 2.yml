@@ -15,3 +15,8 @@ body:
        - Category
        - Tool
        - Operational Process
+ - type: checkbox 
+   label: Blah Blah Blah 
+   options:
+      - label: example 1 
+      - label: example 2 
