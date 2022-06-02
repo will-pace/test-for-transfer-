@@ -7,11 +7,10 @@ body:
   attributes: 
    value: "## Welcome!"
 - type: dropdown
-  id: I have no idea 
   attributes:
-   label: Is your suggestion for a category, tool, or operational process improvement?
-   multiple: true
-   options:
+    label: Is your suggestion for a category, tool, or operational process improvement?
+    multiple: true
+    options:
     - Category
     - Tool
     - Operational Process
