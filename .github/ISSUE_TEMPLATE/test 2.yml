@@ -17,5 +17,5 @@ body:
 - type: checkboxes
   label: Blah Blah Blah 
   options:
-   - label: example 1 
+  - label: example 1 
    - label: example 2 
