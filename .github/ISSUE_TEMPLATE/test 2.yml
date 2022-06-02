@@ -16,7 +16,7 @@ body:
       - Operational Process
 - type: checkboxes
   attributes:
-    label: Please specifiy which category, tool, or operational process your suggestion involves: 
+    label: "Please specifiy which category, tool, or operational process your suggestion involves:" 
     options:
       - label: General Abuse
       - label: DMCA 
