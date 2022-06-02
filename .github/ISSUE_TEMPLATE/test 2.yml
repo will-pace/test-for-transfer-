@@ -33,7 +33,12 @@ body:
       - label: Escalations 
       - label: Triage 
       - label: Zendesk 
-      - label: macros - create a [macro issue](https://github.com/github/trust-safety/issues/new?assignees=&labels=macro&template=macro-update-request.md&title=Macro+Request) for macro change requests) 
+      - label: macros - create a [macro issue](https://github.com/github/trust-safety/issues/new?assignees=&labels=macro&template=macro-update-request.md&title=Macro+Request) for macro change requests)
+- type: textarea 
+  attributes: 
+    label: Text label 
+    description: Test test 
+  
    
        
   
