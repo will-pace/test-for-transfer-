@@ -4,7 +4,8 @@ title: 'Process Improvement Suggestion: '
 labels: 'process suggestion'
 body:
 - type: markdown
-  value: "## Welcome!"
+  attributes: 
+   value: "## Welcome!"
 - type: dropdown
   attributes:
    label: Is your suggestion for a category, tool, or operational process improvement?
