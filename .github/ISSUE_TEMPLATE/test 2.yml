@@ -4,7 +4,6 @@ title: 'Process Improvement Suggestion: '
 labels: 'process suggestion'
 body:
  - type: markdown
-   attributes:
     value: "## Please use this form to tell us about your suggestion!"
  - type: dropdown
    id: 
