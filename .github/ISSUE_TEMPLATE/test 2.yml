@@ -15,7 +15,8 @@ body:
       - Tool
       - Operational Process
 - type: checkboxes
-  label: Blah Blah Blah 
-  options:
-   - label: example 1 
-   - label: example 2 
+  attributes:
+    label: Blah Blah Blah 
+    options:
+      - label: example 1 
+      - label: example 2 
