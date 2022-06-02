@@ -5,16 +5,16 @@ labels: 'process suggestion'
 body:
 - type: markdown
   value: "## Welcome!"
- - type: dropdown
-   attributes:
-     label: Is your suggestion for a category, tool, or operational process improvement?
-     multiple: true
-     options:
-       - Category
-       - Tool
-       - Operational Process
- - type: checkboxes
-   label: Blah Blah Blah 
+- type: dropdown
+  attributes:
+   label: Is your suggestion for a category, tool, or operational process improvement?
+   multiple: true
    options:
-      - label: example 1 
-      - label: example 2 
+    - Category
+    - Tool
+    - Operational Process
+- type: checkboxes
+  label: Blah Blah Blah 
+  options:
+   - label: example 1 
+   - label: example 2 
