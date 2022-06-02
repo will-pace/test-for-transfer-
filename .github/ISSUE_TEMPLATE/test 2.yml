@@ -16,7 +16,7 @@ body:
       - Operational Process
 - type: checkboxes
   attributes:
-    label: Please specifiy which category, tool, or opertaional process
+    label: Please specifiy which category, tool, or operational process your suggestion involves: 
     options:
       - label: General Abuse
       - label: DMCA 
@@ -34,6 +34,6 @@ body:
       - label: Triage 
       - label: Zendesk 
       - label: macros - create a [macro issue](https://github.com/github/trust-safety/issues/new?assignees=&labels=macro&template=macro-update-request.md&title=Macro+Request) for macro change requests) 
-       
+   
        
   
