@@ -6,7 +6,6 @@ body:
  - type: markdown
    value: "## Please use this form to tell us about your suggestion!"
  - type: dropdown
-   id: 
    attributes:
      label: Is your suggestion for a category, tool, or operational process improvement?
      multiple: true
