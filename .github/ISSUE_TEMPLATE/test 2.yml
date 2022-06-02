@@ -11,9 +11,9 @@ body:
     label: Is your suggestion for a category, tool, or operational process improvement?
     multiple: true
     options:
-    - Category
-    - Tool
-    - Operational Process
+      - Category
+      - Tool
+      - Operational Process
 - type: checkboxes
   label: Blah Blah Blah 
   options:
